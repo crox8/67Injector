@@ -1,0 +1,11 @@
+C:\Users\simon\Downloads\CroxMod\CroxMod\obj\Debug\CroxMod.csproj.AssemblyReference.cache
+C:\Users\simon\Downloads\CroxMod\CroxMod\obj\Debug\CroxMod.Properties.Resources.resources
+C:\Users\simon\Downloads\CroxMod\CroxMod\obj\Debug\CroxMod.csproj.GenerateResource.cache
+C:\Users\simon\Downloads\CroxMod\CroxMod\obj\Debug\CroxMod.csproj.CoreCompileInputs.cache
+C:\Users\simon\Downloads\CroxMod\CroxMod\obj\Debug\CroxMod.Form1.resources
+C:\Users\simon\Downloads\CroxMod\CroxMod\bin\Debug\67Injector.exe.config
+C:\Users\simon\Downloads\CroxMod\CroxMod\bin\Debug\67Injector.exe
+C:\Users\simon\Downloads\CroxMod\CroxMod\bin\Debug\67Injector.pdb
+C:\Users\simon\Downloads\CroxMod\CroxMod\obj\Debug\67Injector.exe
+C:\Users\simon\Downloads\CroxMod\CroxMod\obj\Debug\67Injector.pdb
+C:\Users\simon\Downloads\CroxMod\CroxMod\obj\Debug\67Injector.exe.config
